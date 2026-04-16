@@ -170,7 +170,7 @@ If you encounter a suspicious email:
 Standard procedures for reporting a suspicious email are crucial:
 
 1.  **Do Not Click, Forward, or Reply.**
-2.  **Use the Internal Tool:** *[PLACEHOLDER - e.g., "Click the 'Report Phishing' button in Outlook" or "Forward to security@company.com"]*
+2.  **Use the Internal Tool:** Click the "Report Phish" button located in the top ribbon of your Outlook client, or forward the email as an attachment to phishing-alerts@futureinterns.com.
 3.  **Add Context:** When reporting, briefly mention why it looked suspicious (e.g., "Unknown sender and urgent tone").
 
 ---
