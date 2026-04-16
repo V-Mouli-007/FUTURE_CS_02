@@ -1,8 +1,5 @@
 # Phishing Awareness System: Protecting Our Organization
 
-![Phishing Analysis Examples](image_1.png)
-*Figure 1: Analysis of Common Phishing Email Scenarios*
-
 ## Overview
 
 Phishing attacks are one of the most significant cybersecurity threats facing organizations today. These attempts use deceptive emails, messages, or calls to trick individuals into revealing sensitive information, such as passwords, financial data, or personal details, or to install malware.
