@@ -1,6 +1,6 @@
 # 🛡️ Phishing Awareness System: Protecting Our Organization
 
---------------------------------------**🚩"Phishing Analysis Examples"🚩**-----------------------------------------------
+----------------------------------------**🚩"Phishing Analysis Examples"🚩**-----------------------------------------------
 
 <img width="2432" height="1750" alt="Gemini_Generated_Image_3rbm2n3rbm2n3rbm" src="https://github.com/user-attachments/assets/79b9b0a1-84e7-418b-84d3-4a4cc7e2c1da" />
 
