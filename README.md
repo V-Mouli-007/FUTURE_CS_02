@@ -43,7 +43,7 @@ The image above illustrates four common phishing scenarios, complete with analys
 * 🔍 **Verify independently:** Use official websites and contact details, not any provided in the email.
 * 📢 **Report the email** through official organizational channels.
 
----
+----
 
 ### 2. 💼 Job Offer Scam Email (Phishing)
 
